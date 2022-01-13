@@ -16,5 +16,5 @@
 学过的编程语言有css,c++
 ```css
 body{
-    backgroundcolor:blue
+    background color:blue
 }
